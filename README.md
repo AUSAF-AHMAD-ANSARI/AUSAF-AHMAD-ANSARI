@@ -20,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ausafahmadansari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ausafahmadansari/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ausaf.a.ansari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ausaf.a.ansari/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/aaacode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/aaacode" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/coder_aaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/coder_aaa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ausafahmadansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ausafahmadansari" height="30" width="40" /></a>
+<a href="https://instagram.com/ausaf.a.ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ausaf.a.ansari" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/aaacode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aaacode" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/coder_aaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="coder_aaa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
