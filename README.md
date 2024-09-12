@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ausafahmad1976@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13q17LxDgJ2tteG6hFExFabc7s716_EoC/view?usp=sharing](https://drive.google.com/file/d/13q17LxDgJ2tteG6hFExFabc7s716_EoC/view?usp=sharing)
+- 📄 Know about my experiences [MYRESUME](https://drive.google.com/file/d/1MNC0sx7TDxlj0cIKK34IiANR3im7ld6f/view?usp=sharing)
 
 - ⚡ Fun fact **I excite for new project**
 
