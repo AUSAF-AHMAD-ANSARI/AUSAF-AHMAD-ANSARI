@@ -7,7 +7,8 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hi+there!+I'm+Ausaf+Ahmad+Ansari+👋;Passionate+Frontend+Developer+%26+Competitive+Programmer;Building+the+future%2C+one+commit+at+a+time+🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi%2C+I'm+Ausaf+Ahmad+Ansari+👋;Frontend+Dev+%7C+Competitive+Programmer;Crafting+clean+code+%26+creative+solutions+🚀)](https://git.io/typing-svg)
+
 
 </div>
 
@@ -199,20 +200,4 @@ const ausaf = {
 
 
 
-<div align="center">
 
-
-
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&fontSize=0" width="100%"/>
-
-### Show some ❤️ by starring some of my repositories!
-
-
-
-</div>
-
----
