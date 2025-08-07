@@ -1,12 +1,13 @@
+![Profile Views](https://komarev.com/ghpvc/?username=ausaf-ahmad-ansari&label=Profile%20Views&color=00D9FF&style=for-the-badge)
 # <div align="center">🚀 Welcome to Ausaf's Digital Universe 🌟</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,10,35,15&height=180&section=header&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=&fontSize=0" width="100%"/>
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1500&color=FF6B6B&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=Hi+there!+I'm+Ausaf+Ahmad+Ansari+👋;Passionate+Frontend+Developer+%26+Competitive+Programmer;Building+the+future%2C+one+commit+at+a+time+🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hi+there!+I'm+Ausaf+Ahmad+Ansari+👋;Passionate+Frontend+Developer+%26+Competitive+Programmer;Building+the+future%2C+one+commit+at+a+time+🔥)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,7 +16,8 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2ywkn3q24xq93d&rid=giphy.gif" width="30"> About Me
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200" height="300" style="object-fit: contain;" />
+
 </div>
 
 <br>
@@ -31,48 +33,28 @@
 <td align="center" width="50%">
 
 ### 🎯 **Current Focus**
-```javascript
+```typescript
 const ausaf = {
-  role: "Full Stack Developer in Making",
-  university: "IIIT Kota - B.Tech CSE",
-  currentlyLearning: [
-    "Advanced Node.js & Express",
-    "Database Design & MongoDB",
-    "System Design Principles",
-    "Cloud Computing & DevOps"
-  ],
-  workingOn: [
-    "E-commerce Web Application",
-    "Real-time Chat Application",
-    "Portfolio Website Redesign"
-  ],
-  expertise: ["React.js", "JavaScript", "C++", "Problem Solving"],
-  goals2024: [
-    "Master Full Stack Development",
-    "Contribute to Open Source",
-    "Land Software Developer Internship",
-    "Solve 1000+ DSA Problems"
-  ],
-  contactMe: "ausafahmad1976@gmail.com",
-  lifePhilosophy: "Learn, Build, Share, Repeat 🔄"
+  education: "🎓 B.Tech in CSE @ IIIT Kota",
+  learning: ["⚙️ Backend Development", "📐 System Design"],
+  building: ["🌐 Full Stack Applications", "🔗 REST APIs"],
+  interests: ["🏆 Competitive Programming", "🧠 Problem Solving"],
+  askMeAbout: ["⚛️ React", "🌿 Node.js", "💻 C++", "📊 DSA"],
+  reachMe: "📬 ausafahmad1976@gmail.com",
+  funFact: "🐛 I debug with console.log()"
 };
+
 ```
 
 </td>
 <td align="center" width="50%">
 
 ### 📊 **Quick Stats**
-<img src="https://github-readme-stats.vercel.app/api?username=ausaf-ahmad-ansari&show_icons=true&count_private=true&hide_border=true&title_color=FF6B6B&icon_color=FFD93D&text_color=FFE5CC&bg_color=0d1117&hide=stars" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ausaf-ahmad-ansari&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&hide=stars" width="100%" />
 
-### 🏅 **Coding Journey**
-[![CodeChef](https://img.shields.io/badge/CodeChef-Specialist-FF6B6B?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/aaacode)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil-FFD93D?style=flat-square&logo=codeforces&logoColor=black)](https://codeforces.com/profile/coder_aaa)
-
-### 🚀 **This Week I'm**
-- 🔨 Building a MERN stack project
-- 📚 Learning System Design concepts
-- 💡 Solving daily coding challenges
-- 🎯 Preparing for technical interviews
+### 🏅 **Coding Platforms**
+[![CodeChef](https://img.shields.io/badge/CodeChef-Specialist-orange?style=flat-square&logo=codechef)](https://www.codechef.com/users/aaacode)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil-blue?style=flat-square&logo=codeforces)](https://codeforces.com/profile/coder_aaa)
 
 </td>
 </tr>
@@ -213,28 +195,11 @@ const ausaf = {
 
 
 
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30"> Random Dev Quote
+
+
+
 
 <div align="center">
-  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> Random Dev Meme
-
-<div align="center">
-  
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
-
-</div>
-
----
-
-<div align="center">
-
 
 
 
@@ -246,10 +211,8 @@ const ausaf = {
 
 ### Show some ❤️ by starring some of my repositories!
 
-![Profile Views](https://komarev.com/ghpvc/?username=ausaf-ahmad-ansari&label=Profile%20Views&color=00D9FF&style=for-the-badge)
+
 
 </div>
 
 ---
-
-*✨ Crafted with passion, powered by endless curiosity*
