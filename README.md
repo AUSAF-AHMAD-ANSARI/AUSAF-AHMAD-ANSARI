@@ -150,13 +150,7 @@ const ausaf = {
 
 ---
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> Activity Graph
 
-<div align="center">
-  
-[![Ausaf's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ausaf-ahmad-ansari&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
