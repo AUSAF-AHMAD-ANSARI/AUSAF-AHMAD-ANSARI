@@ -1,5 +1,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ausaf-ahmad-ansari&label=Profile%20Views&color=00D9FF&style=for-the-badge)
-# <div align="center">🚀 Welcome to Ausaf's Digital Universe 🌟</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=&fontSize=0" width="100%"/>
@@ -61,14 +60,9 @@ const ausaf = {
 </tr>
 </table>
 
-<div align="center">
-  
-### 💫 **What Drives Me**
-*Building impactful solutions through clean code and innovative thinking*
 
-</div>
 
----
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Connect With Me
 
