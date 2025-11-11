@@ -4,11 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=&fontSize=0" width="100%"/>
 </div>
 
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi%2C+I'm+Ausaf+Ahmad+Ansari+👋;Frontend+Dev+%7C+Competitive+Programmer;Crafting+clean+code+%26+creative+solutions+🚀)](https://git.io/typing-svg)
-</div>
-
----
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2ywkn3q24xq93d&rid=giphy.gif" width="30"> About Me
 
