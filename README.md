@@ -5,10 +5,7 @@
 </div>
 
 <div align="center">
-  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi%2C+I'm+Ausaf+Ahmad+Ansari+👋;Frontend+Dev+%7C+Competitive+Programmer;Crafting+clean+code+%26+creative+solutions+🚀)](https://git.io/typing-svg)
-
-
 </div>
 
 ---
@@ -17,7 +14,6 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200" height="300" style="object-fit: contain;" />
-
 </div>
 
 <br>
@@ -59,10 +55,6 @@ const ausaf = {
 </td>
 </tr>
 </table>
-
-
-
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Connect With Me
 
