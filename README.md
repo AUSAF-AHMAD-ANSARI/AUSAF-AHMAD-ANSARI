@@ -152,41 +152,7 @@ const ausaf = {
 
 
 
----
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Achievements & Highlights
-
-<div align="center">
-
-### 🎯 **Development Milestones**
-![](https://img.shields.io/badge/Projects_Completed-15+-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)
-![](https://img.shields.io/badge/Problem_Solved-500+-ff6b6b?style=for-the-badge&logo=codewars&logoColor=white)
-![](https://img.shields.io/badge/Contributions-1000+-blue?style=for-the-badge&logo=github&logoColor=white)
-
-### 🚀 **Learning Journey**
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="60">
-<br><strong>Frontend Mastery</strong>
-<br><em>React • HTML • CSS</em>
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60">
-<br><strong>Backend Development</strong>
-<br><em>Node.js • Express • MongoDB</em>
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="60">
-<br><strong>Problem Solving</strong>
-<br><em>DSA • Competitive Programming</em>
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 
 
