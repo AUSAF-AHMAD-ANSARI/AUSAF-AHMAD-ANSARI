@@ -85,13 +85,13 @@ SELECT * FROM skills WHERE type IN ('MongoDB', 'MySQL');
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ausaf-ahmad-ansari&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ausaf-ahmad-ansari&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ausaf-ahmad-ansari&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ausaf-ahmad-ansari&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ausaf-ahmad-ansari&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=10&hide=jupyter%20notebook" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ausaf-ahmad-ansari&theme=tokyonight&utcOffset=5.5" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ausaf-ahmad-ansari&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=10&hide=jupyter%20notebook" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ausaf-ahmad-ansari&theme=tokyonight&utcOffset=5.5" />
 </div>
 
 ### 📈 Contribution Activity
@@ -110,6 +110,6 @@ SELECT * FROM skills WHERE type IN ('MongoDB', 'MySQL');
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer" width="100%"/>
 
 </div>
