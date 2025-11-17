@@ -115,8 +115,8 @@ const ausaf = {
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ausaf-ahmad-ansari&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ausaf-ahmad-ansari)](https://git.io/streak-stats)
 </div>
 
 ---
